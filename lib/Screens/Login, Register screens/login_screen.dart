@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tiffily/Screens/otp_screen.dart';
+import 'package:tiffily/Screens/Login,%20Register%20screens/otp_screen.dart';
 import 'package:tiffily/utils/utils.dart';
 
 class LoginScreen extends StatefulWidget {

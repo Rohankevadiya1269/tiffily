@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:tiffily/Screens/login_screen.dart';
-import 'package:tiffily/Screens/register_screen.dart';
+import 'package:tiffily/Screens/Login,%20Register%20screens/login_screen.dart';
+import 'package:tiffily/Screens/Login,%20Register%20screens/register_screen.dart';
 import 'package:tiffily/utils/utils.dart';
 
 class OtpScreen extends StatefulWidget {

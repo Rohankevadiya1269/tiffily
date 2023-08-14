@@ -3,7 +3,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:tiffily/Screens/onboarding_screen.dart';
+import 'package:tiffily/Screens/Login,%20Register%20screens/onboarding_screen.dart';
 import 'package:tiffily/utils/utils.dart';
 
 class SplashScreen extends StatefulWidget {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tiffily/Screens/splash_screen.dart';
+import 'package:tiffily/Screens/Login,%20Register%20screens/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
